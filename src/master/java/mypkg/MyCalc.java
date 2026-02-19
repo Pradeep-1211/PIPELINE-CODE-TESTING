@@ -25,7 +25,7 @@ public class MyCalc {
 		System.out.println("Diff is "+calc.diff(20,10) );
 		System.out.println("Mul is "+calc.mul(20,10) );
 		System.out.println("Div is "+calc.div(20,10) );
-		System.out.println("Hello GFG Team, Thanks Hitesh");
+		
 	}
 
 }
